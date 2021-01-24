@@ -19,4 +19,20 @@ public class Numbers {
     public static int[] removeElement(int[] array, int value) {
         return null;
     }
+
+    /*
+    * Задача
+    * Написать метод конвертации градусов цельсия в фаренгейты
+    * */
+    public static float celsiusToFahrenheit(float degrees) {
+        return 0;
+    }
+
+    /*
+     * Задача
+     * Написать метод конвертации фаренгейтов в градусы цельсия
+     * */
+    public static float fahrenheitToCelsius(float degrees) {
+        return 0;
+    }
 }
